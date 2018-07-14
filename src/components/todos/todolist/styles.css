@@ -1,0 +1,25 @@
+.containerList {
+  background-color: #FE4E50;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.todolist {
+  margin: 5%;
+  font-size: 16px;
+  font-family: 'Francois One', sans-serif;
+}
+.todolist thead {
+  font-size: 22px;
+
+}
+.todolist th, td {
+ padding: 0 10px 0 10px;
+}
+.todolist table {
+  margin: 0 10%;
+}
+.todolist table, tbody{
+  width: 80%;
+}

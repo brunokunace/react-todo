@@ -1,0 +1,40 @@
+.createNewTodo {
+  margin: 5% 0 0 0;
+  width: 200px;
+  height: 30px;
+  background-color: #222;
+  border: 0;
+  font-size: 18px;
+  text-align: center;
+  color: #ccc;
+}
+::placeholder {
+  color: #ccc;
+}
+input:focus, button:focus {
+  outline: 0;
+}
+.saveNewTodo {
+  margin: 3% 0 0 0;
+  width: 80px;
+  height: 40px;
+  background-color: #1FBFFB;
+  border: none;
+  font-size: 22px;
+}
+.saveNewTodo:hover { 
+    background-color: #1f8bfb;
+}
+.checkAllTodos:hover { 
+    background-color: #f89922;
+}
+.checkAllTodos {
+  margin: 3% 0 0 0;
+  width: 250px;
+  height: 50px;
+  background-color: #F8D322;
+  border: none;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+

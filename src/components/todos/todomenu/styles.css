@@ -1,0 +1,10 @@
+.containerMenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Francois One', sans-serif;
+  background-color: #F8D322;
+  min-height: 100px;
+  font-size: 22px;
+}
+
